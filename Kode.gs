@@ -1,6 +1,6 @@
 // Deklarasi variabel global
-var spreadsheetId = '1ocCoHch80QV1BmKNfJnvDBx8FCMrM-nThasHTFA8Yl0';
-var sheetName = 'Sheet1';
+var spreadsheetId = 'SPREADSHEET_ID';
+var sheetName = 'SHEET_NAME';
 
 // Fungsi untuk mengubah teks menjadi format camelCase dengan huruf pertama huruf kecil (lower camel case)
 function toCamelCase(text) {
