@@ -1,7 +1,7 @@
 #  CRUD Rest API Google Script & Sheets
 CRUD  Rest API dengan Google Script menyimpan ke Google Sheets.
 
-Contoh discript ini menggunakan 2 colom google sheets.
+Contoh discript ini menggunakan 2 colom google sheets. Direkomendasikan membuat google script tidak menggunakan akun Distrik.
 
 ## URL
 
